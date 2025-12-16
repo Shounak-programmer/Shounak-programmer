@@ -19,7 +19,7 @@
 - 🌱 Learning **Backend, Databases, and System Design**
 - 🧠 Interested in **AI, Software Engineering, and Scalable Systems**
 - 🧪 Believe in learning by **building, not watching**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **shhounakchatterjee@gmail.com**
 
 ---
 
@@ -37,17 +37,14 @@
 
 ### 🛠 Technologies I Know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=8" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/shounak-chatterjee-45480a258" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
