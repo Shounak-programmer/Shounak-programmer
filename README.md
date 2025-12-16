@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
+  <i>“Make it work. Make it right. Make it fast.” — Kent Beck</i>
 </p>
 
 ---
