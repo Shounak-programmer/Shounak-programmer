@@ -37,7 +37,7 @@
 
 ### 🛠 Technologies I Know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=10" />
 </p>
 
 ---
