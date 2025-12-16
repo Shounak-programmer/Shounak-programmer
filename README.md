@@ -29,15 +29,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shounak-programmer&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shounak-programmer&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🛠 Technologies I Know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
