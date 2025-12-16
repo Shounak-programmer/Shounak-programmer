@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shounak</h1>
+<h2 align="center">Hi 👋, I'm Shounak</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shounak-programmer&theme=react-dark&hide_border=true" />
@@ -33,7 +33,7 @@
 
 ### 🛠 Technologies I Know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,github,linux,vscode&perline=6" />
 </p>
 
 ---
