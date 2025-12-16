@@ -51,7 +51,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/shounak-chatterjee-45480a258" target="_blank">
+  <a href="https://www.linkedin.com/in/shounak-chatterjee-45480a258" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
