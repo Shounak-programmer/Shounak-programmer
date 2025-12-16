@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Shounak</h2>
+<h1 align="center">Hi 👋, I'm Shounak</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shounak-programmer&theme=react-dark&hide_border=true" />
@@ -31,10 +31,21 @@
 
 ---
 
-### 🛠 Technologies I Know
+### 🛠 Skills (with proof)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,git,linux&perline=5" />
 </p>
+
+- **C** — used in [ABC-Club](https://github.com/Shounak-programmer/ABC-Club)
+- **C++** — used in [CODSOFT](https://github.com/Shounak-programmer/CODSOFT)
+- **Java** — problem-solving in [45DayChallengeBySandip](https://github.com/Shounak-programmer/45DayChallengeBySandip)
+- **Python** — problem-solving in [45DayChallengeBySandip](https://github.com/Shounak-programmer/45DayChallengeBySandip)
+- **JavaScript** — used in [IDP Project](https://github.com/Shounak-programmer/idp)
+- **HTML & CSS** — used in [IDP Project](https://github.com/Shounak-programmer/idp)
+- **MySQL** — academic & practice usage
+- **Git & Linux** — daily development workflow
+
 
 ---
 
