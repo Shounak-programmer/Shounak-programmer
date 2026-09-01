@@ -29,53 +29,7 @@ I build real software systems — not just experiment with technologies in isola
 
 ## What I Build
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🤖 AI & Intelligent Systems
-
-- Multimodal RAG systems
-- AI assistants & agents
-- Bayesian inference
-- AI-powered automation
-
-</td>
-<td valign="top" width="50%">
-
-### ⚙️ Software Engineering
-
-- Full-stack applications
-- Backend APIs & databases
-- Agent architectures
-- Desktop applications
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-### 📱 Mobile & IoT
-
-- React Native applications
-- Emergency vehicle systems
-- IoT-assisted traffic systems
-- Location-aware applications
-
-</td>
-<td valign="top" width="50%">
-
-### 🌐 Real-Time & Media
-
-- WebRTC · LiveKit
-- Screen sharing
-- Low-latency streaming
-- Multi-device media systems
-
-</td>
-</tr>
-</table>
+<table width="100%"> <tr> <td width="50%" valign="top"> **🤖 AI & Intelligent Systems** - Multimodal RAG systems - AI assistants & agents - Bayesian inference - AI-powered automation </td> <td width="50%" valign="top"> **⚙️ Software Engineering** - Full-stack applications - Backend APIs & databases - Agent architectures - Desktop applications </td> </tr> <tr> <td width="50%" valign="top"> **📱 Mobile & IoT** - React Native applications - Emergency vehicle systems - IoT-assisted traffic systems - Location-aware applications </td> <td width="50%" valign="top"> **🌐 Real-Time & Media** - WebRTC · LiveKit - Screen sharing - Low-latency streaming - Multi-device media systems </td> </tr> </table>
 <br>
 
 ## Tech Stack
