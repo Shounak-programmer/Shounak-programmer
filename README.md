@@ -197,14 +197,6 @@ A unified media and screen-sharing platform exploring **real-time communication 
 
 ---
 
-### 🖥️ Ruse Media
-
-A low-latency **WebRTC screen-sharing and streaming platform**.
-
-**Tech:** Next.js • Go • WebRTC • Docker
-
----
-
 ### 📁 File Organizer & FileSense AI
 
 A desktop-oriented project combining file organization with **AI-powered file categorization and information processing**.
@@ -286,16 +278,16 @@ The goal is to understand **how complete systems work — from the interface to 
 | **Python**                  | IntelliAssist AI, Bayesian Inference, WBJEE Generator |
 | **C++**                     | CodSoft, algorithmic problem solving                  |
 | **JavaScript / TypeScript** | Portfolio, Apartment Portal, web projects             |
-| **React / Next.js**         | Portfolio, Apartment Portal, budwatch, Ruse           |
+| **React / Next.js**         | Portfolio, Apartment Portal, budwatch                 |
 | **React Native**            | Smart Emergency Transit, Driver Radar                 |
 | **Node.js**                 | Smart Emergency Transit                               |
-| **Go**                      | budwatch, Ruse Media                                  |
+| **Go**                      | budwatch                                              |
 | **AI / RAG**                | IntelliAssist AI, FileSense AI                        |
 | **LangGraph**               | Portfolio Agent OS                                    |
 | **Databases**               | Firebase, MySQL, PostgreSQL, MongoDB, Redis           |
-| **WebRTC**                  | budwatch, Ruse Media                                  |
+| **WebRTC**                  | budwatch                                              |
 | **Electron**                | File Organizer / FileSense AI                         |
-| **Docker**                  | Ruse Media                                            |
+| **Docker**                  | budwatch                                              |
 | **Git / Linux**             | Development workflow                                  |
 
 ---
