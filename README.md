@@ -36,7 +36,7 @@ My work spans **AI applications, backend systems, full-stack development, mobile
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🤖 AI & Intelligent Systems
 
@@ -49,7 +49,7 @@ My work spans **AI applications, backend systems, full-stack development, mobile
 * Local AI & ML experimentation
 
 </td>
-<td width="50%">
+<td width="100%">
 
 ### ⚙️ Software Engineering
 
