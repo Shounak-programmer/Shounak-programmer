@@ -78,9 +78,11 @@ I build real software systems — not just experiment with technologies in isola
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,react,nextjs,nodejs,go,tailwind&perline=7" />
-<br>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis,docker,git,github,linux,electron,vite&perline=7" />
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,react,nextjs,nodejs,go,tailwind,firebase,mongodb,mysql,postgres,redis,docker,git,github,linux,electron,vite&perline=22" />
+
+</div>
 
 </div>
 
