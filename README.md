@@ -17,8 +17,8 @@
 I build real software systems — not just experiment with technologies in isolation. My work spans **AI applications, backend engineering, full-stack development, mobile/IoT, and real-time communication.**
 
 ```text
-🔭  Currently building     AI-powered and full-stack software systems
-🧠  Exploring               RAG, AI agents, LangGraph, probabilistic AI
+🔭  Currently building       AI-powered and full-stack software systems
+🧠  Exploring                RAG, AI agents, LangGraph, probabilistic AI
 ⚙️  Learning                 Backend engineering, databases, distributed systems
 🌐  Building with            Next.js · React · Python · Node.js · Go · TypeScript
 📱  Working with             React Native · Expo · Firebase · IoT
@@ -29,20 +29,22 @@ I build real software systems — not just experiment with technologies in isola
 
 ## What I Build
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🤖 AI & Intelligent Systems**
+### 🤖 AI & Intelligent Systems
+
 - Multimodal RAG systems
 - AI assistants & agents
 - Bayesian inference
 - AI-powered automation
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**⚙️ Software Engineering**
+### ⚙️ Software Engineering
+
 - Full-stack applications
 - Backend APIs & databases
 - Agent architectures
@@ -50,19 +52,22 @@ I build real software systems — not just experiment with technologies in isola
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-**📱 Mobile & IoT**
+<tr>
+<td valign="top" width="50%">
+
+### 📱 Mobile & IoT
+
 - React Native applications
 - Emergency vehicle systems
 - IoT-assisted traffic systems
 - Location-aware applications
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🌐 Real-Time & Media**
+### 🌐 Real-Time & Media
+
 - WebRTC · LiveKit
 - Screen sharing
 - Low-latency streaming
@@ -71,7 +76,6 @@ I build real software systems — not just experiment with technologies in isola
 </td>
 </tr>
 </table>
-
 <br>
 
 ## Tech Stack
