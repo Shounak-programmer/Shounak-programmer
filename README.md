@@ -4,8 +4,6 @@
   <b>B.Tech CSE Student • Software Engineer • AI Builder</b>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shounak-programmer&theme=react-dark&hide_border=true" /> </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shounak-programmer/Shounak-programmer/output/grid-snake-dark.svg" />
 </p>
@@ -287,15 +285,6 @@ The goal is to understand **how complete systems work — from the interface to 
 | **Electron**                | File Organizer / FileSense AI                         |
 | **Docker**                  | budwatch                                              |
 | **Git / Linux**             | Development workflow                                  |
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
-</p>
 
 ---
 
